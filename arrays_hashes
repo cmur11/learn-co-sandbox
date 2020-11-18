@@ -1,0 +1,15 @@
+#the_beatles = ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"]
+
+#puts the_beatles[1]
+
+#the_beatles.push("Conor Murnane")
+#puts the_beatles
+#the_beatles.delete("Conor Murnane")
+#puts the_beatles
+
+the_beatles = {
+"John Lennon" => "guitar", 
+"Paul McCartney" => "bass",
+"Ringo Starr" => "drums", 
+"George Harrison" => "lead guitar"}
+puts the_beatles
